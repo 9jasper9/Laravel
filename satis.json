@@ -1,0 +1,11 @@
+{
+    "name": "Qandidate.com Repository",
+    "homepage": "https://satis.qandidate.com",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:asm89/Rx.PHP.git"
+        }
+    ],
+    "require-all": true
+}

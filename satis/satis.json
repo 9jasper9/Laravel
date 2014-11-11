@@ -1,0 +1,24 @@
+{
+    "name": "COMPANY_NAME Composer Mirror",
+    "homepage": "http://composer.example.com/",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packagist.org"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "*",
+        "phpmd/phpmd": "*",
+        "phploc/phploc": "*",
+        "pdepend/pdepend": "*",
+        "squizlabs/php_codesniffer": "*",
+        "sebastian/phpcpd": "*",
+        "sensiolabs/security-checker": "*"
+    },
+    "require-dependencies": true,
+    "archive": {
+        "directory": "dist",
+        "format": "zip"
+    }
+}

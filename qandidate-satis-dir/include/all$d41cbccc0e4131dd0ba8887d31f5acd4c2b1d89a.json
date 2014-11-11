@@ -1,0 +1,214 @@
+{
+    "packages": {
+        "asm89/rx.php": {
+            "0.1.0": {
+                "name": "asm89/rx.php",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/asm89/Rx.PHP.git",
+                    "reference": "4968d1fa2e30b2a29afe81f582d9f45b6a0717e8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/asm89/Rx.PHP/zipball/4968d1fa2e30b2a29afe81f582d9f45b6a0717e8",
+                    "reference": "4968d1fa2e30b2a29afe81f582d9f45b6a0717e8",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "react/event-loop": "0.3.*@dev"
+                },
+                "suggest": {
+                    "react/event-loop": "For using event-loop based scheduling."
+                },
+                "time": "2013-06-25 15:10:39",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Rx\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Alexander",
+                        "email": "iam.asm89@gmail.com"
+                    }
+                ],
+                "description": "Reactive extensions for php.",
+                "homepage": "https://github.com/asm89/Rx.PHP",
+                "keywords": [
+                    "extensions",
+                    "reactive",
+                    "rx"
+                ],
+                "support": {
+                    "source": "https://github.com/asm89/Rx.PHP/tree/0.1.0",
+                    "issues": "https://github.com/asm89/Rx.PHP/issues"
+                }
+            },
+            "0.2.0": {
+                "name": "asm89/rx.php",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/asm89/Rx.PHP.git",
+                    "reference": "7325dbad8d306d32f9a812dda3230529a654a122"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/asm89/Rx.PHP/zipball/7325dbad8d306d32f9a812dda3230529a654a122",
+                    "reference": "7325dbad8d306d32f9a812dda3230529a654a122",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "react/event-loop": "0.3.*@dev"
+                },
+                "suggest": {
+                    "react/event-loop": "For using event-loop based scheduling."
+                },
+                "time": "2013-08-27 20:20:37",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Rx\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Alexander",
+                        "email": "iam.asm89@gmail.com"
+                    }
+                ],
+                "description": "Reactive extensions for php.",
+                "homepage": "https://github.com/asm89/Rx.PHP",
+                "keywords": [
+                    "extensions",
+                    "reactive",
+                    "rx"
+                ],
+                "support": {
+                    "source": "https://github.com/asm89/Rx.PHP/tree/0.2.0",
+                    "issues": "https://github.com/asm89/Rx.PHP/issues"
+                }
+            },
+            "0.2.1": {
+                "name": "asm89/rx.php",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/asm89/Rx.PHP.git",
+                    "reference": "be578249ff14581b6426aec01e9db813b40698de"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/asm89/Rx.PHP/zipball/be578249ff14581b6426aec01e9db813b40698de",
+                    "reference": "be578249ff14581b6426aec01e9db813b40698de",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "react/event-loop": "0.3.*@dev"
+                },
+                "suggest": {
+                    "react/event-loop": "For using event-loop based scheduling."
+                },
+                "time": "2014-04-07 22:06:08",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Rx\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Alexander",
+                        "email": "iam.asm89@gmail.com"
+                    }
+                ],
+                "description": "Reactive extensions for php.",
+                "homepage": "https://github.com/asm89/Rx.PHP",
+                "keywords": [
+                    "extensions",
+                    "reactive",
+                    "rx"
+                ],
+                "support": {
+                    "source": "https://github.com/asm89/Rx.PHP/tree/0.2.1",
+                    "issues": "https://github.com/asm89/Rx.PHP/issues"
+                }
+            },
+            "dev-master": {
+                "name": "asm89/rx.php",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/asm89/Rx.PHP.git",
+                    "reference": "be578249ff14581b6426aec01e9db813b40698de"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/asm89/Rx.PHP/zipball/be578249ff14581b6426aec01e9db813b40698de",
+                    "reference": "be578249ff14581b6426aec01e9db813b40698de",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.2"
+                },
+                "require-dev": {
+                    "react/event-loop": "0.3.*@dev"
+                },
+                "suggest": {
+                    "react/event-loop": "For using event-loop based scheduling."
+                },
+                "time": "2014-04-07 22:06:08",
+                "type": "library",
+                "autoload": {
+                    "psr-0": {
+                        "Rx\\": "lib/"
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "authors": [
+                    {
+                        "name": "Alexander",
+                        "email": "iam.asm89@gmail.com"
+                    }
+                ],
+                "description": "Reactive extensions for php.",
+                "homepage": "https://github.com/asm89/Rx.PHP",
+                "keywords": [
+                    "extensions",
+                    "reactive",
+                    "rx"
+                ],
+                "support": {
+                    "source": "https://github.com/asm89/Rx.PHP/tree/0.2.1",
+                    "issues": "https://github.com/asm89/Rx.PHP/issues"
+                }
+            }
+        }
+    }
+}
